@@ -175,6 +175,7 @@ class _SignupPageState extends State<SignupPage> {
     if (_signupFormKey.currentState!.validate()) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('Submitting data..')),
+        
       );
     }
   }
