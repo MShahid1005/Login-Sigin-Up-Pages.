@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Login And Sign-up Screens - Flutter UI
 
 This project is an implementation of a Design i found on [dribbble.com](https://dribbble.com/shots/15145502-Login-And-Sign-up-Screens) by [Yashvi Bhatt](https://dribbble.com/YashviBhatt)
@@ -90,3 +91,6 @@ What things you need to run the app
 **Yashvi Bhatt**
 
 - [**https://dribbble.com/YashviBhatt**](https://dribbble.com/shots/15145502-Login-And-Sign-up-Screens)
+=======
+# Final_Year_Project
+>>>>>>> d364c604785e87d25dc790494752bf3d330b224d
