@@ -74,18 +74,3 @@ What things you need to run the app
 
 - [Android Studio](https://developer.android.com/studio/install) - How to install Android Studio
 - [Flutter](https://flutter.io) - Flutter Official website
-
-## Author 😊
-
-**Adeel Safdar**
-
-- [**Linkedin**](https://www.linkedin.com/in/madeeldev/)
-
-## Inspiration
-
-**Yashvi Bhatt**
-
-- [**https://dribbble.com/YashviBhatt**](https://dribbble.com/shots/15145502-Login-And-Sign-up-Screens)
-=======
-# Final_Year_Project
->>>>>>> d364c604785e87d25dc790494752bf3d330b224d
